@@ -19,7 +19,6 @@ recientemente he vuelto a programar, ya que es algo que me apasiona y dejé post
 
 <h1 align="center">
 ✨ Me podes encontrar en... ✨
-  
   <p align="center"><br/>
    <a href="https://www.linkedin.com/in/flavio-coscarella/">
     <img src="https://img.shields.io/static/v1?label=linkedin&message=flavio-coscarella&color=blue">
