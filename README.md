@@ -21,6 +21,10 @@ recientemente he vuelto a programar, ya que es algo que me apasiona y dejé post
 ✨ Me podes encontrar en... ✨
   <p align="center"><br/>
    <a href="https://www.linkedin.com/in/flavio-coscarella/">
-    <img src="https://img.shields.io/static/v1?label=linkedin&message=flavio-coscarella&color=blue">
-    <img src="https://www.codewars.com/users/Flaviodc7/badges/small">
-  </a>
+        <img src="https://img.shields.io/static/v1?label=linkedin&message=flavio-coscarella&color=blue">
+   </a>
+   <a href="https://www.codewars.com/users/Flaviodc7">
+        <img src="https://www.codewars.com/users/Flaviodc7/badges/small">
+   </a>
+  </p>
+  </h1>
