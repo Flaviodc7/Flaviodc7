@@ -5,8 +5,8 @@
 
 ### 💻 Este es mi stack actual:
 - JavaScript
-- React
-- HTML & CSS
+- ReactJS
+- HTML5 & CSS3
 - Bootstrap, Tailwind
 
 ### 👨‍🦱 Un poco acerca de mí:
