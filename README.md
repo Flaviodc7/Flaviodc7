@@ -11,7 +11,7 @@
 
 ### 👨‍🦱 Un poco acerca de mí:
 - Tengo 35 años y vivo en Gonzalez Catán, La Matanza, Buenos Aires.
-- Estudié un año Ingeniería en Informatica en la Universidad Nacional de La Matanza por el 2004,
+- Estudié Ingeniería en Informatica en la Universidad Nacional de La Matanza entre el 2004 y 2005,
 también realicé programación en C y Delphi 6, realizando aplicaciones de escritorio, 
 recientemente he vuelto a programar, ya que es algo que me apasiona y dejé postergado.
 
