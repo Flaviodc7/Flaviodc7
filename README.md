@@ -11,9 +11,9 @@
 
 ### 👨‍🦱 Un poco acerca de mí:
 - Tengo 35 años y vivo en Gonzalez Catán, La Matanza, Buenos Aires.
-- Estudié Ingeniería en Informatica en la Universidad Nacional de La Matanza entre el 2004 y 2005,
-también realicé programación en C y Delphi 6, realizando aplicaciones de escritorio, 
-recientemente he vuelto a programar, ya que es algo que me apasiona y dejé postergado.
+- Estudié Tecnicatura en Informatica y Redes en la Escuela de Educación Técnica No 6 de Isidro Casanova, finalizando en 2003. Allí vi las bases para programar y realicé aplicaciones de escritorio de entorno Windows en Delphi 6, manejando bases de datos de SQL y Access. También realizamos aplicaciones en C de consola.
+- Estudié Ingeniería en Informatica en la Universidad Nacional de La Matanza en el 2004 y 2005.
+- En Abril del 2021 comencé a estudiar nuevamente, esta vez desarrollo FrontEnd con JavaScript.
 
 <img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png"> 
 
