@@ -1,7 +1,6 @@
 <h1 align="center"> Hola, soy Flavio Coscarella </h1>
 <h3 align="center">🚀 Backend Developer 🚀</h3>
 
-<img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png"> 
 
 ### 💻 Este es mi stack actual:
 - JavaScript
@@ -19,7 +18,6 @@
 - En Abril del 2021 comencé a estudiar nuevamente, esta vez desarrollo FrontEnd con JavaScript.
 - En Julio comencé a trabajar como Backend Dev en Shalion y estoy capacitandome para dominar NodeJS, Express, Python y Java.
 
-<img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png"> 
 
 <h1 align="center">
 ✨ Me podes encontrar en... ✨
