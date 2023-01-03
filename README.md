@@ -8,7 +8,7 @@
 - Express
 - Python
 - Java
-- Spring (estudiando)
+- Django (estudiando)
 
 
 ### 👨‍🦱 Un poco acerca de mí:
