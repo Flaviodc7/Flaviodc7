@@ -20,7 +20,7 @@
 - Estudié Ingeniería en Informatica en la Universidad Nacional de La Matanza en el 2004 y 2005.
 - En Abril del 2021 comencé a estudiar nuevamente, esta vez desarrollo FrontEnd con JavaScript.
 - En Julio comencé a trabajar como Backend Dev en Shalion.
-- Actualmente estoy trabajando de forma más exhaustiva con Python y Django.
+- Actualmente estoy trabajando de forma más exhaustiva con Java.
 
 
 <h1 align="center">
