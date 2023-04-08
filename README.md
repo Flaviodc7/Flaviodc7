@@ -9,6 +9,9 @@
 - Python
 - Java
 - Django
+- MySQL
+- MongoDB
+- PostgreSQL
 
 
 ### 👨‍🦱 Un poco acerca de mí:
