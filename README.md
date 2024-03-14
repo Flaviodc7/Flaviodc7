@@ -23,7 +23,7 @@
 
 💼 **Experiencia Profesional:**
 - **Julio 2022 - Agosto 2023:** Backend Dev en Shalion.
-- **Agosto 2023 - Actualidad:** Backend Dev en Farmaloop.
+- **Agosto 2023 - Febrero 2024:** Backend Dev en Farmaloop.
 
 ---
 
