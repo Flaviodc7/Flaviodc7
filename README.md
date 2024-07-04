@@ -5,8 +5,8 @@
 
 **💻 Stack de Tecnologías:**
 - **Lenguajes:** JavaScript, TypeScript
-- **Frameworks y bibliotecas:** NodeJS, Express, NextJS, NestJS
-- **Bases de Datos:** MySQL, MongoDB, DynamoDB, PostgreSQL
+- **Frameworks y bibliotecas:** NodeJS, Express, NextJS, NestJS, Swagger
+- **Bases de Datos:** MongoDB, DynamoDB, PostgreSQL
 - **Cloud:** AWS Services
 - **Control de versiones:** GIT, Github, Gitlab
 
