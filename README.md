@@ -19,7 +19,7 @@
 💼 **Experiencia Profesional:**
 - **Agosto 2023 - Febrero 2024:** Backend Dev en Farmaloop.
 - **Julio 2022 - Agosto 2023:** Backend Dev en Shalion.
-- 
+  
 🎓 **Educación:**
 - **2021:** Inicié estudios de FrontEnd con JavaScript.
 - **2004-2005:** Estudié Ingeniería en Informática en la Universidad Nacional de La Matanza.
