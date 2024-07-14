@@ -5,7 +5,7 @@
 
 **💻 Stack de Tecnologías:**
 - **Lenguajes:** JavaScript, TypeScript
-- **Frameworks y bibliotecas:** NodeJS, Express, NextJS, NestJS, Swagger
+- **Frameworks y bibliotecas:** NodeJS, Express, NestJS, NextJS, Swagger
 - **Bases de Datos:** MongoDB, DynamoDB, PostgreSQL
 - **Cloud:** AWS Services
 - **Control de versiones:** GIT, Github, Gitlab
@@ -16,14 +16,14 @@
 
 📍 **Ubicación:** Gonzalez Catán, La Matanza, Buenos Aires.
 
+💼 **Experiencia Profesional:**
+- **Agosto 2023 - Febrero 2024:** Backend Dev en Farmaloop.
+- **Julio 2022 - Agosto 2023:** Backend Dev en Shalion.
+- 
 🎓 **Educación:**
 - **2021:** Inicié estudios de FrontEnd con JavaScript.
 - **2004-2005:** Estudié Ingeniería en Informática en la Universidad Nacional de La Matanza.
 - **2003:** Tecnicatura en Informática y Redes en la Escuela de Educación Técnica No 6 de Isidro Casanova. Desarrollo en Delphi 6 y aplicaciones en C de consola.
-
-💼 **Experiencia Profesional:**
-- **Agosto 2023 - Febrero 2024:** Backend Dev en Farmaloop.
-- **Julio 2022 - Agosto 2023:** Backend Dev en Shalion.
 
 ---
 
