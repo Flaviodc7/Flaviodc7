@@ -7,7 +7,7 @@
 - **Lenguajes:** JavaScript, TypeScript
 - **Frameworks y bibliotecas:** NodeJS, Express, NestJS, NextJS, Swagger
 - **Bases de Datos:** MongoDB, DynamoDB, PostgreSQL
-- **Cloud:** AWS Services
+- **Cloud:** AWS Services, actualmente estoy aprendiendo a utilizar Azure
 - **Control de versiones:** GIT, Github, Gitlab
 
 ---
@@ -21,9 +21,9 @@
 - **Julio 2022 - Agosto 2023:** Backend Dev en Shalion.
   
 🎓 **Educación:**
-- **2021:** Inicié estudios de FrontEnd con JavaScript.
+- **2021:** Inicié estudios de FrontEnd de manera autodidacta, buscando cursos y documentación oficial, para utilizar HTML, CSS y ReactJS.
 - **2004-2005:** Estudié Ingeniería en Informática en la Universidad Nacional de La Matanza.
-- **2003:** Tecnicatura en Informática y Redes en la Escuela de Educación Técnica No 6 de Isidro Casanova. Dentro de lo que es desarrollo de software, trabajadamos con: Delphi 5 y 6 (Aplicaciones de escritorio con bases de datos en Access), aplicaciones en C (Aplicaciones de consola) y algunas pequeñas incursiones en Assembler.
+- **2003:** Tecnicatura en Informática y Redes en la Escuela de Educación Técnica No 6 de Isidro Casanova. Dentro de lo que es desarrollo de software, trabajamos con: Delphi 5 y 6 (Aplicaciones de escritorio con bases de datos en Access), aplicaciones en C (Aplicaciones de consola) y algunas pequeñas incursiones en Assembler.
 
 ---
 
