@@ -23,7 +23,7 @@
 🎓 **Educación:**
 - **2021:** Inicié estudios de FrontEnd con JavaScript.
 - **2004-2005:** Estudié Ingeniería en Informática en la Universidad Nacional de La Matanza.
-- **2003:** Tecnicatura en Informática y Redes en la Escuela de Educación Técnica No 6 de Isidro Casanova. Desarrollo en Delphi 6 y aplicaciones en C de consola.
+- **2003:** Tecnicatura en Informática y Redes en la Escuela de Educación Técnica No 6 de Isidro Casanova. Dentro de lo que es desarrollo de software, trabajadamos con: Delphi 5 y 6 (Aplicaciones de escritorio con bases de datos en Access), aplicaciones en C (Aplicaciones de consola) y algunas pequeñas incursiones en Assembler.
 
 ---
 
