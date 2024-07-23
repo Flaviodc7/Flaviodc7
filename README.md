@@ -9,6 +9,7 @@
 - **Bases de Datos:** MongoDB, DynamoDB, PostgreSQL
 - **Cloud:** AWS Services, Azure (aprendiendo)
 - **Infraestructura como Código**: Terraform
+- **Contenedores**: Docker
 - **Control de versiones:** GIT, Github, Gitlab
 
 ---
