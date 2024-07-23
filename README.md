@@ -7,7 +7,8 @@
 - **Lenguajes:** JavaScript, TypeScript
 - **Frameworks y bibliotecas:** NodeJS, Express, NestJS, NextJS, Swagger
 - **Bases de Datos:** MongoDB, DynamoDB, PostgreSQL
-- **Cloud:** AWS Services, actualmente estoy aprendiendo a utilizar Azure
+- **Cloud:** AWS Services, Azure (aprendiendo)
+- **Infraestructura como Código**: Terraform
 - **Control de versiones:** GIT, Github, Gitlab
 
 ---
@@ -17,8 +18,8 @@
 📍 **Ubicación:** Gonzalez Catán, La Matanza, Buenos Aires.
 
 💼 **Experiencia Profesional:**
-- **Agosto 2023 - Febrero 2024:** Backend Dev en Farmaloop.
-- **Julio 2022 - Agosto 2023:** Backend Dev en Shalion.
+- **Agosto 2023 - Febrero 2024:** Backend Dev en Farmaloop (Stack: NodeJS, ExpressJS, NestJS, MongoDB, DynamoDB, AWS Services(S3, SES, Lambdas, EventBridge, Terraform, entre otros)).
+- **Julio 2022 - Agosto 2023:** Backend Dev en Shalion (Stack: NodeJS, PostgreSQL, Playwright, Cheerio, Axios).
   
 🎓 **Educación:**
 - **2021:** Inicié estudios de FrontEnd de manera autodidacta, buscando cursos y documentación oficial, para utilizar HTML, CSS y ReactJS.
