@@ -7,7 +7,7 @@
 - **Lenguajes:** JavaScript, TypeScript
 - **Frameworks y bibliotecas:** NodeJS, Express, NestJS, NextJS, Swagger
 - **Bases de Datos:** MongoDB, DynamoDB, PostgreSQL
-- **Cloud:** AWS Services, Azure (aprendiendo)
+- **Cloud:** AWS Services, Azure
 - **Infraestructura como Código**: Terraform
 - **Contenedores**: Docker
 - **Control de versiones:** GIT, Github, Gitlab
@@ -19,6 +19,7 @@
 📍 **Ubicación:** Gonzalez Catán, La Matanza, Buenos Aires.
 
 💼 **Experiencia Profesional:**
+- **Septiembre 2024 - Actual:** Desarrollador en KC Latam (Proyecto: WOM, Puesto: Release y Configuration Management, Stack: Azure, Gitlab CI/CD, Shell Scripting, Terraform, Oracle DB).
 - **Agosto 2023 - Febrero 2024:** Backend Dev en Farmaloop (Stack: NodeJS, ExpressJS, NestJS, MongoDB, DynamoDB, AWS Services(S3, SES, Lambdas, EventBridge, Terraform, entre otros)).
 - **Julio 2022 - Agosto 2023:** Backend Dev en Shalion (Stack: NodeJS, PostgreSQL, Playwright, Cheerio, Axios).
   
